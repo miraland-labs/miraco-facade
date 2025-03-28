@@ -2,7 +2,7 @@
 
 ### Miraco is an AI-powered tool that automatically snipes Solana meme coin and token opportunities, freeing users from tedious hours of scouting trends and idly staring at charts. It's a member-oriented, simple and easy to configure and use tool dedicated to token trading like buying, selling, swapping, copy trading, auto-sniping. It features pure Rust language, local deployment on your personal laptop/workstation, NO centralized key management to be more secure as only you control your private key. Just like a shadow follows the light, copy trading and auto-sniping will save you from being immersed in the market trend and charts from sunrise to midnight. Have fun.
 
-### Currently supported Solana liquidity pool types
+**Currently supported Solana liquidity pool types**
 
 -   [x] Raydium CLMM (AMM3)
 -   [x] Raydium AMM4
@@ -22,7 +22,9 @@ Notes: if you want to open target in a new browser tab, try CTRL+click (Windows 
 
 ## Trial | Subscription
 
-We will provide free trial version for your download and experience purpose. Trial distribution will expire in 7 days or at 30 times of application start after your installation. You can subscribe for long-term use via Solana transfer.
+We will provide free trial version for your download and experience purpose.
+Trial distribution will expire in 7 days or at 30 times of application start after your installation.
+You can subscribe(i.e. buy source code) for long-term use via Solana Pay or SOL transfer.
 
 Have fun.
 
@@ -34,7 +36,7 @@ Have fun.
 
 <div>
 
-## DISCLAIMER
+## Disclaimer
 
 #### The product and/or code base is provided 'AS IS', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the creators, authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with The Product or the use or other dealings in The Product. The Product does not represent any investment, security, financial instrument, redemption, promise, bearer instrument or commitment of any kind. The Product is intended only for educational and experimentation purposes only and is not backed or supported by any individual or team. There are no future prospects or plans of any kind beyond the educational and experimentation usages of The Product. Any use or interaction with The Product is expressly prohibited unless your jurisdiction and circumstances explicitly permits the use and interaction with The Product. Any interaction with The Product constitutes acceptance of these terms and the user accepts all responsibility and all risks associated with the use and interaction with The Product.
 
