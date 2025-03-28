@@ -1,6 +1,6 @@
 ## Miraco - Miraland copy trader and sniper bot
 
-### Miraco is an AI-powered tool that automatically snipes Solana Meme coin opportunities, freeing users from tedious hours of scouting trends and idly staring at charts. It's a member-oriented, simple and easy to configure and use tool dedicated to token trading like buying, selling, swapping, copy trading, auto-sniping. It features pure Rust language, local deployment on your personal laptop/workstation, NO centralized key management to be more secure as only you control your private key. Just like a shadow follows the light, copy trading and auto-sniping will save you from being immersed in the market trend and charts from sunrise to midnight. Have fun.
+### Miraco is an AI-powered tool that automatically snipes Solana meme coin and token opportunities, freeing users from tedious hours of scouting trends and idly staring at charts. It's a member-oriented, simple and easy to configure and use tool dedicated to token trading like buying, selling, swapping, copy trading, auto-sniping. It features pure Rust language, local deployment on your personal laptop/workstation, NO centralized key management to be more secure as only you control your private key. Just like a shadow follows the light, copy trading and auto-sniping will save you from being immersed in the market trend and charts from sunrise to midnight. Have fun.
 
 ### Currently supported Solana liquidity pool types
 
@@ -15,8 +15,8 @@
 
 ## Buy and Discuss
 
--   [Buy Source Code](https://miraco-pay.vercel.app/) from payment to download
--   [Miraco Discord](https://discord.gg/VmBfyeM4YB) for member discussion
+-   [Buy Source Code](https://miraco-pay.vercel.app/) with simple actions: Pay -> Claim -> Connect -> Sign -> Download
+-   [Miraco Discord](https://discord.gg/VmBfyeM4YB) which is for memeber discussion, is part of Mirascape Horizon
 
 Notes: if you want to open target in a new browser tab, try CTRL+click (Windows and Linux) or CMD+click (MacOS) on the link.
 
