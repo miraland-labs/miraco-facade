@@ -1,4 +1,4 @@
-# Miraco - Miraland copy trader and sniper bot
+## Miraco - Miraland copy trader and sniper bot
 
 ### Miraco is an AI-powered tool that automatically snipes Solana Meme coin opportunities, freeing users from tedious hours of scouting trends and idly staring at charts. It's a member-oriented, simple and easy to configure and use tool dedicated to token trading like buying, selling, swapping, copy trading, auto-sniping. It features pure Rust language, local deployment on your personal laptop/workstation, NO centralized key management to be more secure as only you control your private key. Just like a shadow follows the light, copy trading and auto-sniping will save you from being immersed in the market trend and charts from sunrise to midnight. Have fun.
 
@@ -13,12 +13,12 @@
 -   [ ] Pump.fun AMM
 -   [ ] Super Exchange
 
-### Terms
+## Buy and Discuss
 
-**Copy Tradee**: also called Followee, is a copy trading party whose tradings are followed.
-**Copy Trader**: also called Follower, is a copy trading party who follows copy tradees' strategies or transactions.
+-   [Buy Source Code](https://miraco-pay.vercel.app/) from payment to download
+-   [Miraco Discord](https://discord.gg/VmBfyeM4YB) for member discussion
 
--   [Miraco Discord](https://discord.gg/VmBfyeM4YB)
+Notes: if you want to open target in a new browser tab, try CTRL+click (Windows and Linux) or CMD+click (MacOS) on the link.
 
 ## Trial | Subscription
 
@@ -26,9 +26,15 @@ We will provide free trial version for your download and experience purpose. Tri
 
 Have fun.
 
+## Terms
+
+**Copy Tradee**: also called Followee, is a copy trading party whose tradings are followed.
+
+**Copy Trader**: also called Follower, is a copy trading party who follows copy tradees' strategies or transactions.
+
 <div>
 
-### DISCLAIMER
+## DISCLAIMER
 
 #### The product and/or code base is provided 'AS IS', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the creators, authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with The Product or the use or other dealings in The Product. The Product does not represent any investment, security, financial instrument, redemption, promise, bearer instrument or commitment of any kind. The Product is intended only for educational and experimentation purposes only and is not backed or supported by any individual or team. There are no future prospects or plans of any kind beyond the educational and experimentation usages of The Product. Any use or interaction with The Product is expressly prohibited unless your jurisdiction and circumstances explicitly permits the use and interaction with The Product. Any interaction with The Product constitutes acceptance of these terms and the user accepts all responsibility and all risks associated with the use and interaction with The Product.
 
