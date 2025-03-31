@@ -42,7 +42,7 @@ For **developers**, Miraco offers extendable and customizable templates and fram
 ## Buy and Discuss
 
 -   [Buy Source Code](https://miraco-pay.vercel.app/) with simple actions: Pay -> Claim -> Connect -> Sign -> Download
--   [Miraco Discord](https://discord.gg/VmBfyeM4YB) which is for memeber discussion, is part of Mirascape Horizon
+-   [Miraco Discord](https://discord.gg/VmBfyeM4YB) which is for miraco discussion, but no product warranty and/or support guarantee there.
 
 Notes: if you want to open target in a new browser tab, try CTRL+click (Windows and Linux) or CMD+click (MacOS) on the link.
 
