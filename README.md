@@ -36,6 +36,9 @@ For **developers**, Miraco offers extendable and customizable templates and fram
 **Miraco Bot Screen Shots: Copy Trading Subscriptions**
 ![Copy Trading Subscriptions](assets/images/copy_trading_subs.jpg "Copy Trading Subscriptions")
 
+**Miraco Bot Screen Shots: Copy Trading Sell Success**
+![Copy Trading Sell Success](assets/images/copy_sell.jpg "Copy Trading Sell Success")
+
 ## Buy and Discuss
 
 -   [Buy Source Code](https://miraco-pay.vercel.app/) with simple actions: Pay -> Claim -> Connect -> Sign -> Download
