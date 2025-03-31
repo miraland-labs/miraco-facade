@@ -21,10 +21,17 @@ For **developers**, Miraco offers extendable and customizable templates and fram
 **Miraco Bot Landscape**
 ![Miraco Bot Landscape](assets/images/miraco_bot.jpg "Miraco Bot Landscape")
 
-**Miraco Bot Screen Shots**
+**Miraco Bot Screen Shots: Sniping Qualification**
 ![Sniping Qualification](assets/images/qualification.jpg "Sniping Qualification")
+
+**Miraco Bot Screen Shots: Buy Success**
 ![Buy Success](assets/images/buy_success.jpg "Buy Success")
-![Copy Trading Targets](assets/images/traders.jpg "Copy Trading Targets")
+
+**Miraco Bot Screen Shots: Sell Success**
+![Sell Success](assets/images/sell_success.jpg "Sell Success")
+
+**Miraco Bot Screen Shots: Copy Trading Subscriptions**
+![Copy Trading Subscriptions](assets/images/copy_trading_subs.jpg "Copy Trading Subscriptions")
 
 ## Buy and Discuss
 
