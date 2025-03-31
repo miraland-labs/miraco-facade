@@ -3,8 +3,11 @@
 ### Miraco is an AI-powered tool that automatically snipes Solana meme coin and token opportunities, freeing users from tedious hours of scouting trends and idly staring at charts. It's a member-oriented, simple and easy to configure and use tool dedicated to token trading like buying, selling, swapping, copy trading, auto-sniping. It features pure Rust language, local deployment on your personal laptop/workstation, NO centralized key management to be more secure as only you control your private key. Just like a shadow follows the light, copy trading and auto-sniping will save you from being immersed in the market trend and charts from sunrise to midnight. Have fun.
 
 **What are the key benefits of Miraco?**
+
 For **traders**, Miraco's out-of-the-box configurable trading capabilities are a key advantage.
+
 For **developers**, Miraco offers extendable and customizable templates and frameworks for qualifying, sniping, and copy trading.
+
 **Geeks** will find it particularly appealing.
 
 **Currently supported Solana liquidity pool types**
